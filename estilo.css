@@ -15,4 +15,7 @@ h2{
 p{
     padding: 25px;
 }
-
+img{
+    width: 25%;
+    align-items: center;
+}
